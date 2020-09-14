@@ -1,4 +1,5 @@
 <?php
+  echo "<h1>Encriptar datos con password_hash()</h1>"."<br>";
   //Dato a encriptar
   $password = "123456";
 
